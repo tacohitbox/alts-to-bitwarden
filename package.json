@@ -1,0 +1,27 @@
+{
+  "name": "alts-to-bitwarden",
+  "version": "1.0.0",
+  "description": "Add alts from certain websites to your Bitwarden vault.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "node cli.js ./alts-example.txt "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacohitbox/alts-to-bitwarden.git"
+  },
+  "keywords": [
+    "bitwarden",
+    "bitwarden-import"
+  ],
+  "author": "tacohitbox",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tacohitbox/alts-to-bitwarden/issues"
+  },
+  "bin": {
+    "alts-to-bitwarden": "cli.js",
+    "alts-bw": "cli.js"
+  },
+  "homepage": "https://github.com/tacohitbox/alts-to-bitwarden#readme"
+}
