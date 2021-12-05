@@ -23,7 +23,15 @@ The package can be called by either ``alts-to-bitwarden`` or ``alts-bw``.
 alts-bw ./text-file.txt
 ```
 
-It then outputs the data in a file (``./export.json``) inside the folder you ran the command in
+It then outputs the data in a file (``./export.json``) inside the folder you ran the command in.
+
+### Import to Bitwarden
+
+Go to your Web Vault in Bitwarden, go to Tools > Import Data.
+
+Upload the ``export.json`` and click ``Import Data``.
+
+![Photo describing what I just said.](https://i.imgur.com/ANngmRv.png)
 
 ## Optional Parameters
 
