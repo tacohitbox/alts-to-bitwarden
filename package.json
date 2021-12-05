@@ -4,7 +4,7 @@
   "description": "Add alts from certain websites to your Bitwarden vault.",
   "main": "cli.js",
   "scripts": {
-    "test": "node cli.js ./alts-example.txt "
+    "test": "node cli.js ./alts-example.txt"
   },
   "repository": {
     "type": "git",
