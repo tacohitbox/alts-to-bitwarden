@@ -29,7 +29,7 @@ It then outputs the data in a file (``./export.json``) inside the folder you ran
 
 Go to your Web Vault in Bitwarden, go to Tools > Import Data.
 
-Upload the ``export.json`` and click ``Import Data``.
+Select the Import Data option ``Bitwarden (json)``, upload the ``export.json`` and click ``Import Data``.
 
 ![Photo describing what I just said.](https://i.imgur.com/ANngmRv.png)
 
